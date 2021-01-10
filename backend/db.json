@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Azul",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "NoteBook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+ ",
+      "price": 5000
+    },
+    {
+      "name": "Produto de teste",
+      "price": 125.98,
+      "id": 4
+    },
+    {
+      "name": "veio do formulário",
+      "price": "100",
+      "id": 5
+    },
+    {
+      "name": "ak-47",
+      "price": "600.78",
+      "id": 7
+    }
+  ]
+}
